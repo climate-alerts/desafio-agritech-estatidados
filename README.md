@@ -43,5 +43,18 @@ Desafio-Estatidados/
 ├── results/            # Resultados das análises e modelos
 └── README.md           # Documento de apresentação do projeto
 
+🤝 Contribuição
+
+Se você deseja contribuir, siga os passos abaixo:
+1. Faça um fork deste repositório.
+2. Crie uma branch para suas alterações: git checkout -b minha-contribuicao.
+3. Commit suas alterações: git commit -m "Descrição das alterações".
+4. Envie para o repositório remoto: git push origin minha-contribuicao.
+5. Abra um Pull Request detalhando suas contribuições.
+
+📬 Contato
+Caso tenha dúvidas ou sugestões, entre em contato:
+E-mail: mfisher@climate-alerts.com
+GitHub Issues: Utilize a seção Issues para reportar problemas ou discutir ideias.
 
 
