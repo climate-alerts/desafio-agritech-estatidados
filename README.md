@@ -25,9 +25,9 @@ O principal objetivo deste desafio é reunir profissionais de diferentes áreas 
 
 ## 🛠️ Ferramentas e Tecnologias
 
-- **Linguagens de Programação**: Python, R, JavaScript.
+- **Linguagens de Programação**: Python, R, outros.
 - **Bibliotecas**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib.
-- **Frameworks Web**: Flask, Django, React, ou Vue.js.
+- **Frameworks Web**: Flask, Django, React, Shiny ou outro.
 - **Plataformas de Colaboração**: GitHub, Google Colab, Jupyter Notebooks.
 - **Ambiente de Dados**: Bases de dados climáticos e agrícolas disponíveis publicamente.
 
