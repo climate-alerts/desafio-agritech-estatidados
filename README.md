@@ -1,13 +1,14 @@
 # 🌱 Desafio Estatidados: Impactos das Mudanças Climáticas na Agricultura e Pecuária
 
-Bem-vindo ao repositório oficial do **Desafio Estatidados**: *Impactos das Mudanças Climáticas na Agricultura e Pecuária*. Este projeto busca explorar os desafios enfrentados por comunidades agrícolas no Brasil em decorrência da variabilidade climática, promovendo a análise de dados e o desenvolvimento de soluções baseadas em inteligência artificial.
+Bem-vindo ao repositório oficial do **Desafio Estatidados**: *Impactos das Mudanças Climáticas na Agricultura e Pecuária*. Este projeto busca explorar os desafios enfrentados por comunidades agrícolas em decorrência da variabilidade climática, promovendo a análise de dados e o desenvolvimento de soluções baseadas em inteligência artificial.
 
 ## 📋 Objetivo
 
 O principal objetivo deste desafio é reunir profissionais de diferentes áreas para:
 - Analisar dados climáticos e agrícolas.
 - Desenvolver modelos de IA que auxiliem no entendimento e mitigação dos impactos climáticos.
-- Propor soluções viáveis e aplicáveis para agricultores e pecuaristas enfrentarem as mudanças climáticas.
+- Criar um **aplicativo de web** que disponibilize soluções de forma acessível para agricultores e pecuaristas.
+- Propor soluções viáveis e aplicáveis para mitigar os efeitos das mudanças climáticas.
 
 ## 📅 Duração
 
@@ -18,16 +19,29 @@ O principal objetivo deste desafio é reunir profissionais de diferentes áreas 
 
 1. **Coleta de Dados**: Dados climáticos e agrícolas relevantes serão reunidos e disponibilizados para análise.
 2. **Análise e Modelagem**: Desenvolvimento de modelos preditivos e exploratórios utilizando IA.
-3. **Propostas de Soluções**: Apresentação de soluções práticas e relatórios para aplicação em comunidades agrícolas.
-4. **Colaboração em Equipe**: Trabalho colaborativo entre profissionais de diversas áreas.
+3. **Aplicativo de Web**: Criação de um aplicativo que apresente de forma clara os resultados e ferramentas desenvolvidos no projeto.
+4. **Propostas de Soluções**: Apresentação de soluções práticas e relatórios para aplicação em comunidades agrícolas.
+5. **Colaboração em Equipe**: Trabalho colaborativo entre profissionais de diversas áreas.
 
 ## 🛠️ Ferramentas e Tecnologias
 
-- **Linguagens de Programação**: Python, R.
+- **Linguagens de Programação**: Python, R, JavaScript.
 - **Bibliotecas**: Pandas, NumPy, Scikit-learn, TensorFlow, Keras, Matplotlib.
+- **Frameworks Web**: Flask, Django, React, ou Vue.js.
 - **Plataformas de Colaboração**: GitHub, Google Colab, Jupyter Notebooks.
 - **Ambiente de Dados**: Bases de dados climáticos e agrícolas disponíveis publicamente.
 
 ## 📂 Estrutura do Repositório
+
+```plaintext
+Desafio-Estatidados/
+├── data/               # Conjuntos de dados utilizados no desafio
+├── notebooks/          # Notebooks Jupyter com análises e modelagens
+├── src/                # Código-fonte e implementações
+├── web_app/            # Código e estrutura do aplicativo de web
+├── docs/               # Documentação adicional e relatórios
+├── results/            # Resultados das análises e modelos
+└── README.md           # Documento de apresentação do projeto
+
 
 
